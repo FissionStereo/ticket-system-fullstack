@@ -54,3 +54,6 @@ ticket-system/
 Autor
 
 Desarrollado por Fernando Darwin Benites Cirilo.
+
+<img width="1362" height="674" alt="image" src="https://github.com/user-attachments/assets/9bb0e4fb-d32c-4f34-9b3e-4e65114a53f9" />
+<img width="1362" height="657" alt="image" src="https://github.com/user-attachments/assets/5a003111-7038-4088-982c-192478077493" />
